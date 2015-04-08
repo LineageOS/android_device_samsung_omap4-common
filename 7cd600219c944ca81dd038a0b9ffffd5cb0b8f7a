@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_731a4a19",
+        "filename": "include/telephony/ril.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2015-04-08T08:57:55Z",
+      "side": 1,
+      "message": "Leave the RADIO_TECH_DCHSPAP in there.",
+      "revId": "7cd600219c944ca81dd038a0b9ffffd5cb0b8f7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
